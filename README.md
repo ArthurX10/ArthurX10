@@ -37,11 +37,4 @@
 
 ---
 
-### 🚀 Em busca de evolução constante
-
-> “A jornada do programador é feita de erros, aprendizado e progresso.”  
-> Sempre em construção. Sempre aprendendo.
-
----
-
 
