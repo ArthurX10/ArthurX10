@@ -1,30 +1,30 @@
 <!-- João Arthur Rodrigues Pontes README -->
 
-<h1 align= >👨‍💻 João Arthur Rodrigues Pontes</h1>
+<h1 align="center">👨‍💻 João Arthur Rodrigues Pontes</h1>
 
-<p align=>
-  Studying a Bachelor's Degree in Computer Science - 3º semester <br>
+<p align="center">
+  Computer Science student at IFCE - 3rd semester <br>
 </p>
 
 ---
 
-### 💡 Sobre mim
+### 💡 About Me
 
-🎓 Atualmente cursando **Ciência da Computação** no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).  
-💻 Apaixonado por resolver problemas com código e transformar ideias em soluções eficientes.  
-🔧 Sempre buscando aprender mais sobre boas práticas, arquitetura de software e ferramentas modernas de desenvolvimento.  
- 
-📫 **Entre em contato:** jarthurrodrigues20@gmail.com  
+🎓 Currently studying **Computer Science** at the Federal Institute of Education, Science and Technology of Ceará (IFCE).  
+💻 Passionate about solving problems through code and turning ideas into efficient solutions.  
+🔧 Always seeking to learn more about clean code, software architecture, and modern development tools.  
+
+📫 **Contact me:** jarthurrodrigues20@gmail.com  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-arthur-rodrigues-pontes" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
+---
 
-
-
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -36,5 +36,4 @@
 </p>
 
 ---
-
 
