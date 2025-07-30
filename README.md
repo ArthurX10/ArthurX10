@@ -14,11 +14,13 @@
 🎓 Atualmente cursando **Ciência da Computação** no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).  
 💻 Apaixonado por resolver problemas com código e transformar ideias em soluções eficientes.  
 🔧 Sempre buscando aprender mais sobre boas práticas, arquitetura de software e ferramentas modernas de desenvolvimento.  
-
+ 
 📫 **Entre em contato:** jarthurrodrigues20@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/joão-arthur-rodrigues-pontes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-arthur-rodrigues-pontes)
 
 ---
+
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
