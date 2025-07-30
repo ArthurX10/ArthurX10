@@ -2,7 +2,7 @@
 
 <h1 align= >👨‍💻 João Arthur Rodrigues Pontes</h1>
 
-<p align="center">
+<p align=>
   Estudante de Ciência da Computação no IFCE - 3º semestre <br>
 </p>
 
