@@ -4,7 +4,6 @@
 
 <p align="center">
   Estudante de Ciência da Computação no IFCE - 3º semestre <br>
-  Focado em desenvolvimento <strong>Back-end</strong> com Java, Node.js e MySQL 🚀
 </p>
 
 ---
