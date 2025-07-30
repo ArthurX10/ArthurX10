@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @ArthurX10
-- 📚 i'm study science computation in IFCE - TIANGUÁ
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- João Arthur Rodrigues Pontes README -->
 
-<!---
-ArthurX10/ArthurX10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">👨‍💻 João Arthur Rodrigues Pontes</h1>
+
+<p align="center">
+  Estudante de Ciência da Computação no IFCE - 3º semestre <br>
+  Focado em desenvolvimento <strong>Back-end</strong> com Java, Node.js e MySQL 🚀
+</p>
+
+---
+
+### 💡 Sobre mim
+
+🎓 Atualmente cursando **Ciência da Computação** no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).  
+💻 Apaixonado por resolver problemas com código e transformar ideias em soluções eficientes.  
+🔧 Sempre buscando aprender mais sobre boas práticas, arquitetura de software e ferramentas modernas de desenvolvimento.  
+
+📫 **Entre em contato:** jarthurrodrigues20@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/joão-arthur-rodrigues-pontes)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+</p>
+
+---
+
+### 🚀 Em busca de evolução constante
+
+> “A jornada do programador é feita de erros, aprendizado e progresso.”  
+> Sempre em construção. Sempre aprendendo.
+
+---
+
+
