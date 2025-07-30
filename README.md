@@ -15,9 +15,12 @@
 🔧 Sempre buscando aprender mais sobre boas práticas, arquitetura de software e ferramentas modernas de desenvolvimento.  
  
 📫 **Entre em contato:** jarthurrodrigues20@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-arthur-rodrigues-pontes)
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-arthur-rodrigues-pontes" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+</p>
 
----
 
 
 
