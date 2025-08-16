@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 João Arthur Rodrigues Pontes</h1>
 
 <p align="center">
-  Computer Science student at IFCE - 3rd semester <br>
+  Computer Science student at IFCE - 4rd semester <br>
 </p>
 
 ---
